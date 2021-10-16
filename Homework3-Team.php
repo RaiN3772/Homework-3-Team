@@ -36,7 +36,7 @@ for ($row = 0;$row <= 9;$row++) // First Loop
     $value = 1; // First Row Values
     echo "<tr>"; // Table row element starts here
     if ($row == 0) { // Please Print X on the top corner
-        echo "<td >X</td>";
+        echo "<td>X</td>";
     }
 
     else {
