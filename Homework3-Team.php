@@ -54,6 +54,4 @@ for ($row = 0;$row <= 9;$row++) // First Loop
 
 echo "</table>";
 
-// echo 'PHP version: ' . phpversion(); // Display php version, fot testing purposes
-
 ?>
